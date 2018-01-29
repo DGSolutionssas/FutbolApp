@@ -1,0 +1,18 @@
+page-main {
+    .background {
+        background-image: url('../assets/imgs/bg.jpg');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .row {
+        background: gray;  
+    }
+
+    .col {
+        background: gray;
+        padding: 10px;
+    }
+}
